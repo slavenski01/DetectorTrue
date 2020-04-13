@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">DetectorTrue</string>
+
+    <!-- CommonMessages -->
+    <string name="common_error">В приложении возникла ошибка</string>
+    <string name="common_yes">Да</string>
+    <string name="common_no">Нет</string>
+
+    <!-- ConfigFragment -->
+    <string name="config_fragment_title">Настройки</string>
+    <string name="config_fragment_set_count_players">Укажите кол-во игроков:</string>
+    <string name="config_fragment_start_game">Начать игру</string>
+
+    <!-- PlayerFragment -->
+    <string name="player_fragment_title">Игрок %d</string>
+    <string name="player_fragment_hint_name">Ваше имя</string>
+    <string name="player_fragment_button_save_info">Сохранить информацию</string>
+    <string name="player_fragment_button_start">Начать (готовы %d из %d)</string>
+
+    <!-- QuestionFragment -->
+    <string name="question_fragment_title">Вопрос %d</string>
+    <string name="question_fragment_change_category">Выбираем категорию…</string>
+    <string name="question_fragment_change_category_complete">Ваша категория</string>
+    <string name="question_fragment_button_show_result">Показать результаты (готовы %d из %d)</string>
+</resources>
